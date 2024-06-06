@@ -1,7 +1,7 @@
 # 🥷 FE-NINJAS 🥷
 ## 📚 Study
 - 매주 일요일 자정 개인별 주제 선정 및 공유
-- 매주 수요일 Discussion 제출
+- 매주 수요일 [Discussion](https://github.com/orgs/FE-ninjas/discussions) 제출
 - 매주 수요일 오후 7시 대면 발표 및 토론 진행
   
 ## 📅 Terms
